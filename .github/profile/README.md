@@ -1,4 +1,4 @@
-![logo](img/coding_pirates_avatar.jpeg)
+![logo](/img/coding_pirates_avatar.jpeg)
 
 # Coding Pirates Nyborg
 
