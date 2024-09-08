@@ -8,6 +8,7 @@
   - [Pushing Changes](#pushing-changes)
   - [Creating a Pull Request](#creating-a-pull-request)
   - [Merging a Pull Request](#merging-a-pull-request)
+  - [Synching your repository with the latest changes from `remote`](#synching-your-repository-with-the-latest-changes-from-remote)
 
 ---
 
@@ -82,3 +83,23 @@ Use the github web interface to merge a pull request.
 6. Delete the branch if you no longer need it
 
 ---
+
+## Synching your repository with the latest changes from `remote`
+
+```bash 
+
+git status # check the status of your repository
+
+# if you have uncommitted changes, commit them first or discard them using `git restore`
+
+# OPTIONAL this is a non-reversible command
+git restore *.* # discard all changes in the working directory
+
+git fetch -a # Fetch all branches
+
+git pull # Pull the latest changes from the remote repository
+
+```
+
+---
+
