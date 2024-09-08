@@ -10,4 +10,6 @@ Is a sub branch of the main [Coding Pirates Denmark](https://codingpirates.dk/) 
 
 - [Projects Docs](/docs/projects.md)
 
+- [GitHub Docs](/docs/github.md)
+
 ---
